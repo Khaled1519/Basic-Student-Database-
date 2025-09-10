@@ -5,7 +5,7 @@ What it can do :
  -input their names, ids and grades (either lettered or percentages)
  -search for any students and either observe their numbers, or edit anything about them
  -delete all data and start over
- - + much more!
+ -much more!
 What it Utilizes :
  -basic C operations
  -funtions
